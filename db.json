@@ -1020,5 +1020,12 @@
       "country": "Zimbabwe",
       "city": "Harare"
     }
+  ],
+  "auth": [
+    {
+      "name": "Pragati Tiwari",
+      "email": "pragatitiwari946@gmail.com",
+      "password": "1234"
+    }
   ]
 }
